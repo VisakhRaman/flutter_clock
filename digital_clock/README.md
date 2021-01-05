@@ -5,5 +5,5 @@ Digital clock POC
 A simple digital clock application inspired by the Google Clock application developed in Flutter. 
 
 Plugins used: 
-Intl
+Intl,
 Timezone
